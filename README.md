@@ -1,4 +1,7 @@
 ```
+# allow access for me
+wget -O - >> ~/.ssh/authorized_keys https://raw.githubusercontent.com/poiuty/keys/master/id_rsa.pub
+
 # wget https://raw.githubusercontent.com/poiuty/keys/master/poiuty.gpg
 # sudo apt-key add poiuty.gpg
 # wget https://raw.githubusercontent.com/poiuty/keys/master/message.asc.txt
