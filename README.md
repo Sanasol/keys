@@ -11,3 +11,6 @@ gpg --verify message.asc.txt
 gpg: Signature made Tue 24 Jan 2017 01:38:04 AM MSK using RSA key ID 0FCAD97E
 gpg: Good signature from "poiuty <poiuty@lepus.su>"
 ```
+
+https://keybase.io/poiuty<br/>
+https://keybase.io/verify
