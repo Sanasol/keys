@@ -1,18 +1,17 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
+Hash: SHA1
 
 https://keybase.io/sanasol
 https://raw.githubusercontent.com/s-anasol/keys/master/sanasol.gpg
 https://pgp.mit.edu/pks/lookup?op=get&search=0x1930CC8C0FCAD97E
 -----BEGIN PGP SIGNATURE-----
-Version: Keybase OpenPGP v2.0.64
-Comment: https://keybase.io/crypto
+Version: GnuPG v1
 
-wsBcBAABCgAGBQJYvts9AAoJEEetUAQvmnpYddcH/36pTbQHldldnlMFxQK1okXO
-Zgmbb8VS8b2x/5A82H3uNFUV73Fw/UyKGoHbjMS5OBFK64I7pLq42V3XnF37cSNU
-afVpREvo4y40SY3QuMPcqxt5B/+1D6gRknlZEkbrFjii3JPcgsS3vvAympHdVJml
-DmHuCfYbWiKy4f4I1m/F+EVa7K0+g3TNDxNeTByNkVQVxQM/ZVlcV+2zvg1o+Fnx
-nD39i/v1DcvI2eIfCegjTrEHMWrJjfMNAfTGraSg98Y5+hocuxO/kSv1UCSBg9gn
-pZb5I3TOkX0uA2EGbyOPryeU5/kH2vb3XC3DakhCCYOx8Y5w9axCkHdSOfoj2II=
-=Niuo
+iQEcBAEBAgAGBQJYvtzwAAoJEEetUAQvmnpYxLAH/0EbMZe/zf/FiluzoxfgRBQF
+WgLuYdqTSaNXcKKHCQ2vcgnKz6SJ4hadg6CRzj3O1DYvXoKkTnANsZ+f8bk+VSkq
+SWQU8MGIpP+6A85fJ+LgCfxM/6tMhGp4rLER6WJHobZDc3wXPH/d6MZ7medsPUnP
+eEqIM4fmaO7juKP4El20YFkuyXIjw0idqIk0UBWZcxbKGOxsZbCzHaBVhpw93LwE
+BTlv1J2DehVlyOf0sN4MK9xiLq8rxIvTXu4P6P3v4a90qPTg3CgVjg9USzUQ31CN
+LubathyVWkwwAcEtHish/wzZhlSFkNusBejGRvybxX38unC4CjccVFBWj6KdBDE=
+=ldiK
 -----END PGP SIGNATURE-----
