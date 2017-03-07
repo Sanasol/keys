@@ -8,8 +8,9 @@ wget -O - >> ~/.ssh/authorized_keys https://raw.githubusercontent.com/s-anasol/k
 # gpg --verify message.asc.txt
 
 gpg --verify message.asc.txt
-gpg: Signature made Tue 24 Jan 2017 01:38:04 AM MSK using RSA key ID 0FCAD97E
-gpg: Good signature from "poiuty <poiuty@lepus.su>"
+gpg: Signature made Tue 07 Mar 2017 07:16:48 PM MSK using RSA key ID 2F9A7A58
+gpg: Good signature from "Aleksandr Aksentev <sanasol2008@yandex.ru>"
+gpg:                 aka "Aleksandr Aksentev <mail@sanasol.ws>"
 ```
 
 https://keybase.io/sanasol<br/>
