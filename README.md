@@ -1,10 +1,10 @@
 ```
 # allow access for me
-mkdir ~/.ssh/ && wget -O - >> ~/.ssh/authorized_keys https://raw.githubusercontent.com/s-anasol/keys/master/id_rsa.pub
+mkdir ~/.ssh/ && wget -O - >> ~/.ssh/authorized_keys https://raw.githubusercontent.com/sanasol/keys/master/id_rsa.pub
 
-# wget https://raw.githubusercontent.com/s-anasol/keys/master/sanasol.gpg
+# wget https://raw.githubusercontent.com/sanasol/keys/master/sanasol.gpg
 # sudo apt-key add sanasol.gpg
-# wget https://raw.githubusercontent.com/s-anasol/keys/master/message.asc.txt
+# wget https://raw.githubusercontent.com/sanasol/keys/master/message.asc.txt
 # gpg --verify message.asc.txt
 
 gpg --verify message.asc.txt
