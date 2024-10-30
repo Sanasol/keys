@@ -1,6 +1,6 @@
 ```
 # allow access for me
-mkdir ~/.ssh/ && wget -O - >> ~/.ssh/authorized_keys https://raw.githubusercontent.com/sanasol/keys/master/id_rsa.pub
+mkdir -p ~/.ssh/ && wget -O - >> ~/.ssh/authorized_keys https://raw.githubusercontent.com/sanasol/keys/master/id_rsa.pub
 
 # wget https://raw.githubusercontent.com/sanasol/keys/master/sanasol.gpg
 # sudo apt-key add sanasol.gpg
